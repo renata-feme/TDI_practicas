@@ -1,4 +1,4 @@
-# Librería de Ren - Práctica Web MVC
+# Librería de Ren - Práctica 2
 
 Proyecto web para administrar y buscar libros usando Java (Servlets y JSP), conexión JDBC y base de datos en MySQL.
 
